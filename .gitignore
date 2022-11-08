@@ -1,0 +1,4 @@
+__pycache__/
+*.cpp
+*.java
+.DS_Store
